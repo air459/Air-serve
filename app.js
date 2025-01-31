@@ -43,7 +43,7 @@ app.get('/404', (req, res) => {
 });
 
 app.get('/git', (req, res) => {
-    res.redirect('https://github.com');
+    res.redirect('https://github.com/air459/Air-serve');
     const hoip = req.ip;
     console.log(`${hoip} 访问了github`)
 });
