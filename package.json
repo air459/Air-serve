@@ -1,0 +1,17 @@
+{
+  "name": "airwebsite",
+  "version": "1.0.1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "ip": "ifconfig"
+  },
+  "keywords": [],
+  "author": "ifconfig",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "yarn": "^1.22.22"
+  }
+}
